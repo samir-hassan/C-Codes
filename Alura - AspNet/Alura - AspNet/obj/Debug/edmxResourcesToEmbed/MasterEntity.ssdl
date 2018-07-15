@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="masterModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'master.dbo.tb_produtos' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tb_produtos">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="Nome" />
+      <PropertyRef Name="Preco" />
+      <PropertyRef Name="Quantidade" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="Preco" Type="decimal" Precision="9" Scale="2" Nullable="false" />
+    <Property Name="Quantidade" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="masterModel1StoreContainer">
+    <EntitySet Name="tb_produtos" EntityType="Self.tb_produtos" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tb_produtos].[id] AS [id], 
+    [tb_produtos].[Nome] AS [Nome], 
+    [tb_produtos].[Preco] AS [Preco], 
+    [tb_produtos].[Quantidade] AS [Quantidade]
+    FROM [dbo].[tb_produtos] AS [tb_produtos]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

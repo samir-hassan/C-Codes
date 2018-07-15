@@ -1,0 +1,22 @@
+﻿
+
+<form action="/Produto/Adiciona" method="post">
+    @Html.AntiForgeryToken();
+
+    <label for="nome">Nome: </label>
+    <input id="nome" name="product.Nome" value="@ViewBag.product.Nome" class="form-control"/>
+    @Html.ValidationMessage("product.Nome")
+
+    <label for="preco">Preco: </label>
+    <input id="preco" name="product.Preco" value="@ViewBag.product.Preco" class="form-control"/>
+    @Html.ValidationMessage("product.Preco")
+    @Html.ValidationMessage("PrecoInvalido")
+
+    <label for="quantidade">Quantidade: </label>
+    <input id="quantidade" name="product.Quantidade" value="@ViewBag.product.Quantidade" class="form-control"/>
+    @Html.ValidationMessage("product.Quantidade")
+
+    <input type="submit" value="Cadastrar" />
+
+</form>
+

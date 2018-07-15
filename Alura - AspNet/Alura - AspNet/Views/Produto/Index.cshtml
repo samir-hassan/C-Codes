@@ -1,0 +1,47 @@
+﻿@model IList<tb_produtos2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Quantidade</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.id</td>
+
+                <td>
+                    @Html.RouteLink(produto.Nome, "VisualizaProduto", new { id = produto.id })
+                </td>
+
+                <td>@produto.Preco</td>
+
+                <td id="idQuantidade@(produto.id)">@produto.Quantidade</td>
+
+                <td>
+                    <a href="#" onclick="Decrementa(@produto.id);">Decrementar</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script type="text/javascript" src="~/Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    function Decrementa(produtoId) {
+        var url = "@Url.Action("DecrementaQtd","Produto")";
+        $.post(url, { id: produtoId }, Atualiza)
+    }
+
+    function Atualiza(resposta) {
+        $("#idQuantidade" + resposta.id).html(resposta.Quantidade)
+    }
+</script>
+

@@ -1,0 +1,80 @@
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csc.exe
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csc.exe.config
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csc.rsp
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csi.exe
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csi.exe.config
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\csi.rsp
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.AppContext.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Console.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\vbc.exe
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\vbc.exe.config
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\vbc.rsp
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Alura - AspNet.dll.config
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Alura - AspNet.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Alura - AspNet.pdb
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Helpers.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Mvc.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Razor.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.Razor.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Razor.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Webpages.Razor.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Helpers.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\System.Web.Mvc.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\obj\Release\Alura - AspNet.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\obj\Release\Alura - AspNet.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\obj\Release\Alura - AspNet.pdb
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\EntityFramework.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\EntityFramework.SqlServer.dll
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\EntityFramework.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\bin\EntityFramework.SqlServer.xml
+C:\Users\Windows 10\Source\Repos\Estudo\Alura - AspNet\Alura - AspNet\obj\Release\Alura - AspNet.csprojResolveAssemblyReference.cache
