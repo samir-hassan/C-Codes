@@ -1,7 +1,7 @@
--- Listar Arquivos que estao dentro do FTP
+// LISTANDO NOME DE ARQUIVOS QUE CONSTAM NO FTP
 
 public static List<string> ListFiles(string username, string password, string server)
-		{
+{
 			FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(new Uri(server));
 			ftpRequest.Credentials = new NetworkCredential(username, password);
 			ftpRequest.Method = WebRequestMethods.Ftp.ListDirectory;
@@ -20,4 +20,4 @@ public static List<string> ListFiles(string username, string password, string se
 			streamReader.Close();
 
 			return directories;
-		}
+}
