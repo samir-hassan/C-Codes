@@ -26,7 +26,7 @@ private static async Task TesteAssync()
 			var service = new AnalyticsService(new BaseClientService.Initializer()
 			{
 				HttpClientInitializer = credential,
-				ApplicationName = "Google Analytics SKY",
+				ApplicationName = "Nome Aplicação",
 			});
 
 			FileStream stream2 = new FileStream(pathxls, FileMode.Open);
